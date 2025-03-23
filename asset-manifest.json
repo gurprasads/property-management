@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/property-management/static/css/main.f855e6bc.css",
+    "main.js": "/property-management/static/js/main.a95f148d.js",
+    "static/js/453.4eb661f8.chunk.js": "/property-management/static/js/453.4eb661f8.chunk.js",
+    "static/media/logo.svg": "/property-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/property-management/index.html",
+    "main.f855e6bc.css.map": "/property-management/static/css/main.f855e6bc.css.map",
+    "main.a95f148d.js.map": "/property-management/static/js/main.a95f148d.js.map",
+    "453.4eb661f8.chunk.js.map": "/property-management/static/js/453.4eb661f8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.a95f148d.js"
+  ]
+}
