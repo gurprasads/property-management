@@ -206,7 +206,7 @@ const contractABI = [
 		"type": "function"
 	}
 ]
-const contractAddress = "0x90432D2Ab1666aF7077ad7cd4Fb92b42b35c467B";
+const contractAddress = "0xd9145CCE52D386f254917e481eB44e9943F39138";
 
 const contract = new web3.eth.Contract(contractABI, contractAddress);
 
